@@ -2,9 +2,9 @@
 
 def countdown(n)
   n = 10
-  while n > 10
+  while n > 0
     puts "#{n} SECONDS(S)"
     n -= 1
-puts "HAPPY NEW YEAR!"
 end
+puts "HAPPY NEW YEAR!"
 end
