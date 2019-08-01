@@ -1,9 +1,9 @@
 #write your code here
-x = 10
+n = 10
 def countdown
-  while x > 0
-    puts "#{x} SECONDS(S)"
-    x -= 1
+  while n > 0
+    puts "#{n} SECONDS(S)"
+    n -= 1
 end
 end
 
